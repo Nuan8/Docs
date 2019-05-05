@@ -27,6 +27,8 @@ If you have a question about this documentation site, want to help make it bette
 
 Revolution is MODX's flagship CMS and application framework, lovingly called "Revo". If you're new to MODX, start here.
 
+Revo delivers lightning-fast page loads on the front end, while keeping a secure backend, by separating many common website functions into Extras (below), and outside of the Revo core. Functionality can also be achieved with php, python or other common languages, often in the form of [Snippets](https://docs.modx.com/revolution/2.x/developing-in-modx/basic-development/snippets). A general rule of thumb is never hack the core, so that nothing gets over-written during an update.
+
 ### Quick Links
 
 - [Video Quick-Start Series](building-sites/integrating-templates/video-quick-start)
@@ -42,7 +44,7 @@ Revolution is MODX's flagship CMS and application framework, lovingly called "Re
 
 ### Extras
 
-MODX Extras extend the core functionality of the MODX software. Other CMSs refer to them as "Plugins" or "Modules". Many of the Extras are developed by the MODX core team, while others are by third parties. Although by no means an exhaustive reference, the majority of the most popular Extras are documented here.
+MODX Extras extend the core functionality of the MODX software. Other CMSs refer to them as "Plugins" or "Modules". Many of the Extras are developed by the MODX core team, while others are by third parties. Although by no means an exhaustive reference, the majority of the most popular Extras are documented here. 
 
 - [Download Extras](http://modx.com/extras/?product=revolution)
 - [Learn more about installing Extras](building-sites/extras)
