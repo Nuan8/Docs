@@ -33,7 +33,7 @@ Before installing, have a look at the extras you plan to use, or talk about your
 
 ### Before Installation
 
-- Languages - For sites that will have content not in English, or will have multi-lingual functions, make sure when installing Revo that your database tables are set to the proper language, such as UTF-8.
+- Languages - For sites that will have content not in English, or will have multi-lingual functions, make sure when installing Revo that the version of php you are running and your database tables are set to the proper language, such as UTF-8.
 
 ### Quick Links
 
