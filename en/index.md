@@ -29,6 +29,12 @@ Revolution is MODX's flagship CMS and application framework, lovingly called "Re
 
 Revo delivers lightning-fast page loads on the front end, while keeping a secure backend, by separating many common website functions into Extras (below), and outside of the Revo core. Functionality can also be achieved with php, python or other common languages, often in the form of [Snippets](https://docs.modx.com/revolution/2.x/developing-in-modx/basic-development/snippets). A general rule of thumb is never hack the core, so that nothing gets over-written during an update.
 
+Before installing, have a look at the extras you plan to use, or talk about your needs in the developers forum! Then install Revo and start developing!
+
+### Before Installation
+
+- Languages - For sites that will have content not in English, or will have multi-lingual functions, make sure when installing Revo that your database tables are set to the proper language, such as UTF-8.
+
 ### Quick Links
 
 - [Video Quick-Start Series](building-sites/integrating-templates/video-quick-start)
@@ -48,6 +54,8 @@ MODX Extras extend the core functionality of the MODX software. Other CMSs refer
 
 - [Download Extras](http://modx.com/extras/?product=revolution)
 - [Learn more about installing Extras](building-sites/extras)
+- [E-Commerce](https://modx.com/extras/category/e-commerce) - There are a wealth of Extras to provide a wide-range of commercial functions.
+- [Users](https://modx.com/extras/browse/?search=users) - Revo has basic user functionality, with both a user object and user profile object, as well as user classes and roles. For sites that need more robust user data and management, there are some Extras that allow for additional functionality.
 
 ## xPDO
 
